@@ -1,0 +1,6 @@
+.DS_Store
+notes.txt
+project/myvenv/
+project/spreadsheets/application/local_settings.py
+__pycache__/
+*.pyc
